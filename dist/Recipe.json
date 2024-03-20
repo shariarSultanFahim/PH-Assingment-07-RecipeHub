@@ -1,0 +1,146 @@
+[
+  {
+    "recipe_image": "https://skinnyms.com/wp-content/uploads/2021/09/Pan-Seared-Salmon-with-Creamy-Lemon-Dill-Sauce-5-Go-e1632753585350.jpg",
+    "recipe_id": 1,
+    "recipe_name": "Pan-Seared Salmon with Lemon",
+    "short_description": "A light and flavorful dish perfect for a quick weeknight meal.",
+    "ingredients": [
+      "2 salmon fillets",
+      "1 tbsp olive oil",
+      "1 lemon, juiced",
+      "1 tbsp chopped fresh dill",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": 20,
+    "calories": 350
+  },
+  {
+    "recipe_image": "https://ministryofcurry.com/wp-content/uploads/2018/07/Pasta-with-Tomato-Cream-Sauce-4.jpg",
+    "recipe_id": 2,
+    "recipe_name": "Creamy Tomato Pasta",
+    "short_description": "A simple yet satisfying pasta dish with a rich and creamy tomato sauce.",
+    "ingredients": [
+      "1 box pasta (your choice)",
+      "1 can diced tomatoes",
+      "1/2 cup heavy cream",
+      "1/4 cup grated Parmesan cheese",
+      "2 cloves garlic, minced",
+      "Fresh basil leaves, for garnish (optional)"
+    ],
+    "preparing_time": 30,
+    "calories": 420
+  },
+  {
+    "recipe_image": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/enchiladas-gratinees-au-poulet-5ac3526f.jpg",
+    "recipe_id": 3,
+    "recipe_name": "Cheesy Chicken Enchiladas",
+    "short_description": "A classic Mexican comfort food with tender chicken and a delicious cheese sauce.",
+    "ingredients": [
+      "4 boneless, skinless chicken breasts, cooked and shredded",
+      "10 corn tortillas",
+      "1 can (15 oz) enchilada sauce",
+      "2 cups shredded cheddar cheese",
+      "1 cup sour cream",
+      "1/2 cup chopped onion"
+    ],
+    "preparing_time": 45,
+    "calories": 500
+  },
+  {
+    "recipe_image": "https://cdn.loveandlemons.com/wp-content/uploads/2020/07/black-bean-burger-1.jpg",
+    "recipe_id": 4,
+    "recipe_name": "Black Bean Burgers",
+    "short_description": "A healthy and flavorful vegetarian burger option packed with protein and fiber.",
+    "ingredients": [
+      "1 can (15 oz) black beans, rinsed and drained",
+      "1/2 cup cooked brown rice",
+      "1/4 cup chopped red onion",
+      "1 egg, beaten",
+      "1 tbsp breadcrumbs",
+      "1 tsp chili powder",
+      "1/2 tsp cumin"
+    ],
+    "preparing_time": 25,
+    "calories": 300
+  },
+  {
+    "recipe_image": "https://lemonsandzest.com/wp-content/uploads/2020/02/Small-Batch-Chocolate-Chip-Cookies-Recipe-3.10.jpg",
+    "recipe_id": 5,
+    "recipe_name": "Chocolate Chip Cookies",
+    "short_description": "A timeless classic: warm, gooey chocolate chip cookies perfect for any occasion.",
+    "ingredients": [
+      "1 cup (2 sticks) unsalted butter, softened",
+      "1 cup granulated sugar",
+      "1 cup packed light brown sugar",
+      "2 large eggs",
+      "2 tsp pure vanilla extract",
+      "2 1/4 cups all-purpose flour",
+      "1 tsp baking soda",
+      "1 tsp salt",
+      "2 cups semisweet chocolate chips"
+    ],
+    "preparing_time": 20,
+    "calories": 200
+  },
+  {
+    "recipe_image": "https://assets.bonappetit.com/photos/57ae0a62f1c801a1038bcf17/master/pass/thai-chicken-curry.jpg",
+    "recipe_id": 6,
+    "recipe_name": "Thai Chicken Curry",
+    "short_description": "A fragrant and flavorful curry with tender chicken, vegetables, and a creamy coconut milk sauce.",
+    "ingredients": [
+      "1 tbsp vegetable oil",
+      "1 lb boneless, skinless chicken breasts, cubed",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 tbsp curry paste (red or green)",
+      "1 can (13.5 oz) coconut milk",
+      "1 cup vegetable broth",
+      "1 red bell pepper, chopped",
+      "1 cup broccoli florets"
+    ],
+    "preparing_time": 50,
+    "calories": 230
+  },
+  {
+    "recipe_image": "https://omnivorescookbook.com/wp-content/uploads/2021/04/210204_Sichuan-Shrimp-Stir-Fry_550.jpg",
+    "recipe_id": 7,
+    "recipe_name": "Spicy Shrimp Stir-Fry",
+    "short_description": "A quick and easy stir-fry packed with flavor, perfect for a light and healthy meal.",
+    "ingredients": [
+      "1 lb shrimp, peeled and deveined",
+      "1 tbsp vegetable oil",
+      "1 red bell pepper, sliced",
+      "1 green bell pepper, sliced",
+      "1 cup broccoli florets",
+      "1/2 cup snow peas",
+      "1/4 cup soy sauce",
+      "1 tbsp brown sugar",
+      "1 tbsp sriracha (or to taste)",
+      "1 clove garlic, minced",
+      "1 tbsp cornstarch",
+      "1/4 cup water"
+    ],
+    "preparing_time": 20,
+    "calories": 400
+  },
+  {
+    "recipe_image": "https://iambaker.net/wp-content/uploads/2023/05/blueberry-lemon-muffin-3.jpg",
+    "recipe_id": 8,
+    "recipe_name": "Lemon Blueberry Muffins",
+    "short_description": "Light and fluffy muffins bursting with fresh blueberries and a hint of lemon.",
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "1/2 cup granulated sugar",
+      "2 tsp baking powder",
+      "1/4 tsp salt",
+      "1/2 cup unsalted butter, softened",
+      "2 large eggs",
+      "1/2 cup milk",
+      "1 tsp lemon zest",
+      "1 tbsp lemon juice",
+      "1 cup fresh blueberries"
+    ],
+    "preparing_time": 30,
+    "calories": 350
+  }
+]
